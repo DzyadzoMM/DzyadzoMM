@@ -31,3 +31,21 @@ I utilize the following technologies and tools in my projects:
 
 ---
 
+---
+
+## ⭐️ Featured Projects (Обрані Проєкти)
+
+### E-commerce Platform | Clothica
+
+This is a full-stack e-commerce solution for selling clothes, developed as a comprehensive project showcasing full-stack capabilities.
+
+* **[Clothica – Frontend](https://github.com/d-yv/clothica-front)**
+    * **Description:** The customer-facing internet shop interface. Built for speed and SEO using **Next.js**.
+    * **Stack:** Next.js (React), [Other Frontend Tech].
+    
+* **[Clothica – Backend](https://github.com/d-yv/clothica-back)**
+    * **Description:** The robust backend system handling product inventory, user authentication, orders, and payment processing. Implemented as a Rest API.
+    * **API Documentation:** [https://clothica-back.onrender.com/api-docs/](https://clothica-back.onrender.com/api-docs/)
+    * **Stack:** Express.js (Node.js), [Database MongoDB].
+
+---
