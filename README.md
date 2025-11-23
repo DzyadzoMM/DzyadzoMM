@@ -52,3 +52,11 @@ This is a full-stack e-commerce solution for selling clothes, developed as a com
 
 * **🇺🇦 Ukrainian:** Native
 * **🇬🇧 English:** Beginner
+---
+## 🔗 Connect With Me (Зв'язатися зі мною)
+
+Feel free to reach out for collaboration or discussion!
+
+* **[LinkedIn](https://www.linkedin.com/in/myroslav-dzyadzo)** 💼
+* **Telegram:** [@Dzyadzo\_Myroslav](https://t.me/Dzyadzo_Myroslav) ✈️
+* **Email:** [m.dziadzo@gmail.com](mailto:m.dziadzo@gmail.com) 📧
