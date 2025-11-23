@@ -1,4 +1,13 @@
-## Hi there 👋
+# 👋 Hello! I'm Myroslav Dziadzo
+
+### 💻 Junior Fullstack Developer
+
+I am passionate about creating modern and efficient web solutions. I am currently actively deepening my knowledge in Fullstack development, focusing on:
+
+* **Frontend:** Building dynamic and responsive user interfaces.
+* **Backend:** Developing robust server logic and APIs.
+
+
 
 <!--
 **DzyadzoMM/DzyadzoMM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
