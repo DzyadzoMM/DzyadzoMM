@@ -31,8 +31,6 @@ I utilize the following technologies and tools in my projects:
 
 ---
 
----
-
 ## ⭐️ Featured Projects (Обрані Проєкти)
 
 ### E-commerce Platform | Clothica
@@ -49,3 +47,8 @@ This is a full-stack e-commerce solution for selling clothes, developed as a com
     * **Stack:** Express.js (Node.js), [Database MongoDB].
 
 ---
+
+## 💬 Languages (Мови)
+
+* **🇺🇦 Ukrainian:** Native
+* **🇬🇧 English:** Beginner
