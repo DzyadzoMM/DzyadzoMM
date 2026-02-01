@@ -33,7 +33,7 @@ I utilize the following technologies and tools in my projects:
 
 ## ⭐️ Featured Projects (Обрані Проєкти)
 
-### E-commerce Platform | Clothica
+### Clothica
 
 This is a full-stack e-commerce solution for selling clothes, developed as a comprehensive project showcasing full-stack capabilities.
 
