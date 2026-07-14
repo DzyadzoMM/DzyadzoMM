@@ -1,9 +1,7 @@
 # 👋 Hello! I'm Myroslav Dziadzo
 ![Views](https://komarev.com/ghpvc/?username=DzyadzoMM&color=blue)
 
-### Моя статистика:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DzyadzoMM&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DzyadzoMM&layout=compact&theme=radical)
+![My stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DzyadzoMM&theme=radical)
 
 ### 💻 Junior Fullstack Developer
 
