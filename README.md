@@ -49,6 +49,11 @@ This is a full-stack e-commerce solution for selling clothes, developed as a com
     * **API Documentation:** [https://clothica-back.onrender.com/api-docs/](https://clothica-back.onrender.com/api-docs/)
     * **Stack:** Express.js (Node.js), [Database MongoDB].
 
+* **[Queen's Hidden Match](https://github.com/DzyadzoMM/Queens-Hidden-Match)** 👑
+    * **Description:** A premium landing page for a mobile casual game (Hidden Object, Match-3). Developed as a collaborative project focusing on performance, mobile-first design, and clean Vanilla JS architecture.
+    * **Stack:** Vanilla JavaScript (ES6+), Pure CSS, Vite.
+    * **Role:** Lead Developer (Collaborative project).
+
 * **[Movie Search App](https://github.com/DzyadzoMM/Movie_Android)** 🎬
     * **Description:** A mobile application for real-time movie search, integrated with the TMDB API.
     * **Stack:** React Native (Expo), TypeScript, Tailwind CSS (NativeWind).
