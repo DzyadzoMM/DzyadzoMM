@@ -49,6 +49,11 @@ This is a full-stack e-commerce solution for selling clothes, developed as a com
     * **API Documentation:** [https://clothica-back.onrender.com/api-docs/](https://clothica-back.onrender.com/api-docs/)
     * **Stack:** Express.js (Node.js), [Database MongoDB].
 
+* **[Movie Search App](https://github.com/DzyadzoMM/Movie_Android)** 🎬
+    * **Description:** A mobile application for real-time movie search, integrated with the TMDB API.
+    * **Stack:** React Native (Expo), TypeScript, Tailwind CSS (NativeWind).
+
+
 ---
 
 ## 💬 Languages (Мови)
