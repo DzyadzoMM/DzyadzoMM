@@ -1,4 +1,5 @@
 # 👋 Hello! I'm Myroslav Dziadzo
+![Views](https://komarev.com/ghpvc/?username=DzyadzoMM&color=blue)
 
 ### 💻 Junior Fullstack Developer
 
