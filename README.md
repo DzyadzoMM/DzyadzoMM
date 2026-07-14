@@ -34,30 +34,23 @@ I utilize the following technologies and tools in my projects:
 
 ---
 
-## ⭐️ Featured Projects (Обрані Проєкти)
+## ⭐️ Featured Projects
 
-### Clothica
+* **[Clothica – Frontend](https://github.com/d-yv/clothica-front)** 👕
+    * **Description:** A client-facing e-commerce interface optimized for speed and SEO.
+    * **Stack:** ⚛️ Next.js, 🔷 TypeScript.
 
-This is a full-stack e-commerce solution for selling clothes, developed as a comprehensive project showcasing full-stack capabilities.
-
-* **[Clothica – Frontend](https://github.com/d-yv/clothica-front)**
-    * **Description:** The customer-facing internet shop interface. Built for speed and SEO using **Next.js**.
-    * **Stack:** Next.js (React), [Other Frontend Tech].
-    
-* **[Clothica – Backend](https://github.com/d-yv/clothica-back)**
-    * **Description:** The robust backend system handling product inventory, user authentication, orders, and payment processing. Implemented as a Rest API.
-    * **API Documentation:** [https://clothica-back.onrender.com/api-docs/](https://clothica-back.onrender.com/api-docs/)
-    * **Stack:** Express.js (Node.js), [Database MongoDB].
-
-* **[Queen's Hidden Match](https://github.com/DzyadzoMM/Queens-Hidden-Match)** 👑
-    * **Description:** A premium landing page for a mobile casual game (Hidden Object, Match-3). Developed as a collaborative project focusing on performance, mobile-first design, and clean Vanilla JS architecture.
-    * **Stack:** Vanilla JavaScript (ES6+), Pure CSS, Vite.
-    * **Role:** Lead Developer (Collaborative project).
+* **[Clothica – Backend](https://github.com/d-yv/clothica-back)** ⚙️
+    * **Description:** Robust REST API for inventory management, authentication, and payments.
+    * **Stack:** 🚀 Express.js, 🍃 MongoDB, 🛡️ JWT Auth.
 
 * **[Movie Search App](https://github.com/DzyadzoMM/Movie_Android)** 🎬
     * **Description:** A mobile application for real-time movie search, integrated with the TMDB API.
-    * **Stack:** React Native (Expo), TypeScript, Tailwind CSS (NativeWind).
+    * **Stack:** ⚛️ React Native (Expo), 🔷 TypeScript, 🎨 Tailwind CSS.
 
+* **[Queen's Hidden Match](https://github.com/DzyadzoMM/Queens-Hidden-Match)** 👑
+    * **Description:** A premium landing page for a mobile casual game. Developed as a collaborative project focusing on performance and clean Vanilla JS architecture.
+    * **Stack:** 📜 Vanilla JavaScript (ES6+), ⚡ Vite, 💎 CSS.
 
 ---
 
