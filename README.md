@@ -1,8 +1,6 @@
 # 👋 Hello! I'm Myroslav Dziadzo
 ![Views](https://komarev.com/ghpvc/?username=DzyadzoMM&color=blue)
 
-![My stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DzyadzoMM&theme=radical)
-
 ### 💻 Junior Fullstack Developer
 
 I am passionate about creating modern and efficient web solutions. I am currently actively deepening my knowledge in Fullstack development, focusing on:
